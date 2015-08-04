@@ -1,0 +1,5 @@
+---
+baseurl: "http://tobias-johansson.github.io/"
+languageCode: "en-us"
+title: "tobjoh's codeblog"
+canonifyurls: true
