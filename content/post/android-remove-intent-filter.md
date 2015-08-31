@@ -1,6 +1,5 @@
 +++
 date = "2015-08-31T15:53:57+02:00"
-draft = true
 title = "Removing an intent-filter using the Android Manifest Merger"
 
 +++
